@@ -2,3 +2,4 @@
 /gcn/gcn/checkpoints/*
 /gcn/gcn/hidden_vectors/*
 /gcn/gcn/results/*
+/gcn/gcn/.idea/*
