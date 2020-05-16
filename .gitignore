@@ -1,0 +1,4 @@
+/gcn/gcn/data/*
+/gcn/gcn/checkpoints/*
+/gcn/gcn/hidden_vectors/*
+/gcn/gcn/results/*
